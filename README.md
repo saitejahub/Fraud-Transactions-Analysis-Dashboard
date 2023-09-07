@@ -1,6 +1,6 @@
 # Fraud Transactions Data Analysis Dashboard
 
-Dashboard Link : https://app.powerbi.com/groups/me/reports/cd7d6cc5-d88d-48cd-8608-2ff7fa93f7da/ReportSection?experience=power-bi
+**Dashboard Link** : https://app.powerbi.com/groups/me/reports/cd7d6cc5-d88d-48cd-8608-2ff7fa93f7da/ReportSection?experience=power-bi
 
 # Project Overview
 This project focuses on the analysis of credit and fraud transactions data, with a particular emphasis on understanding trends and risks in both pre and post-COVID eras. The project utilizes Microsoft Power BI, Data Modeling techniques, and DAX (Data Analysis Expressions) to uncover insights and provide actionable recommendations for mitigating credit and fraud risks.

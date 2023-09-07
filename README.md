@@ -17,3 +17,5 @@ During the course of this project, we observed a noteworthy 13% increase in frau
 
 - # Correlation with Unemployment Data
 By correlating transaction data with unemployment data, we gained valuable insights into the interplay between economic conditions and financial risks. This analysis provides a deeper understanding of the factors contributing to credit and fraud risks.
+
+Dashboard Link : https://app.powerbi.com/groups/me/reports/cd7d6cc5-d88d-48cd-8608-2ff7fa93f7da/ReportSection?experience=power-bi

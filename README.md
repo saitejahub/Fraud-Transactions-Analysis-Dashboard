@@ -15,7 +15,7 @@ This project focuses on the analysis of credit and fraud transactions data, with
 
 # Analysis and Findings
 - # Fraud Transaction Increase
-During the course of this project, we observed a noteworthy 13% increase in fraud transaction percentages. This finding underscores the importance of understanding and mitigating fraud risks in financial transactions.
+During the course of this project, I observed a noteworthy 13% increase in fraud transaction percentages. This finding underscores the importance of understanding and mitigating fraud risks in financial transactions.
 
 - # Correlation with Unemployment Data
-By correlating transaction data with unemployment data, we gained valuable insights into the interplay between economic conditions and financial risks. This analysis provides a deeper understanding of the factors contributing to credit and fraud risks.
+By correlating transaction data with unemployment data, I gained valuable insights into the interplay between economic conditions and financial risks. This analysis provides a deeper understanding of the factors contributing to credit and fraud risks.
